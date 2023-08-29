@@ -1,4 +1,5 @@
 # Diabetes-T2-Classification
+![SHAP Beeswarm Feature Contribution Plot](https://github.com/Adenrele/Diabetes-T2-Classification/blob/master/SHAP%20figure.png)
 ## Summary
 [Kaggle](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset) provide a type 2 Diabetes dataset in the form of three (3) Behavioral Risk Factor Surveillance System (BRFSS) telephone surveys which are run annually by the Centre for Disease Control (CDC) in the USA. The surveys have a total of 400,000 respondents. 
 
