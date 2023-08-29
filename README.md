@@ -3,7 +3,7 @@
 ## Summary
 [Kaggle](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset) provide a type 2 Diabetes dataset in the form of three (3) Behavioral Risk Factor Surveillance System (BRFSS) telephone surveys which are run annually by the Centre for Disease Control (CDC) in the USA. The surveys have a total of 400,000 respondents. 
 
-In this repository, I answer these four (4) questions:
+I answer these four (4) questions in this repository:
 1. Can survey questions from the BRFSS provide accurate predictions of whether an individual has diabetes?
 2. What risk factors are most predictive of diabetes risk?
 3. Can we use a subset of the risk factors to accurately predict whether an individual has diabetes?
