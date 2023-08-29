@@ -17,3 +17,4 @@ In this repository, I answer these four (4) questions:
 - SelectKbest with mutual information.
 - Hyperparameter tuning with self-made gridsearchcv like function.
 - Decision tree and Random forest algorithms.
+- SHAP (SHapley Additive exPlanation) to explain the contribution of each feature to outcomes. 
